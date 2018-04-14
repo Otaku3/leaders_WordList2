@@ -60,7 +60,7 @@
         <!--一覧-->
         <scene sceneID="XRJ-Gi-gLh">
             <objects>
-                <tableViewController id="mK3-T9-Rn5" sceneMemberID="viewController">
+                <tableViewController id="mK3-T9-Rn5" customClass="ListTableViewController" customModule="WordList" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="Wij-lh-MAK">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
